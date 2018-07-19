@@ -68,6 +68,258 @@
     <Reference Include="System.Web" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\opt\mono-webforms-port\lib\mono\4.0-api\mscorlib.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

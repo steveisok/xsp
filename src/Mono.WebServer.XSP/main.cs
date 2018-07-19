@@ -161,14 +161,10 @@ namespace Mono.WebServer.XSP
 
 
 			VPathToHost vh = server.GetSingleApp ();
-			if (root && vh != null) {
-				// Redo in new domain
-				vh.CreateHost (server, webSource);
-				var svr = (Server) vh.AppHost.Domain.CreateInstanceAndUnwrap (GetType ().Assembly.GetName ().ToString (), GetType ().FullName);
-				webSource.Dispose ();
-				return svr.DebugMain (args, false, vh.AppHost, configurationManager.Quiet);
-			}
-			server.AppHost = ext_apphost;
+
+			vh.CreateHost (server, webSource);
+			server.AppHost = vh.AppHost;
+
 
 			if (!configurationManager.Quiet) {
 				Logger.Write(LogLevel.Notice, Assembly.GetExecutingAssembly().GetName().Name);
