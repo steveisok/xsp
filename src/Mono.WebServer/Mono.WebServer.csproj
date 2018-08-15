@@ -7,7 +7,6 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Mono.WebServer</RootNamespace>
     <AssemblyName>Mono.WebServer</AssemblyName>
-    <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\..\steve.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
