@@ -1,7 +1,7 @@
 // AssemblyInfo.cs.in:
 //
 // Authors:
-//	Gonzalo Paniagua Javier (gonzalo@ximian.com)
+//  Gonzalo Paniagua Javier (gonzalo@ximian.com)
 //
 // Copyright (c) 2002-2010 Novell, Inc. (http://www.novell.com)
 //
@@ -28,12 +28,12 @@
 using System.Reflection;
 using System.Runtime.CompilerServices;
 
-[assembly: AssemblyVersion("@XSP_VERSION@")]
-[assembly: AssemblyTitle ("Mono.WebServer.XSP")]
-[assembly: AssemblyDescription ("Minimalistic web server for testing System.Web")]
-[assembly: AssemblyCopyright ("(C) 2002-2011 Novell, Inc.")]
-[assembly: AssemblyCompany ("Novell, Inc.")]
-[assembly: InternalsVisibleTo ("Mono.WebServer.Test, PublicKey = 0024000004800000940000000602000" +
+[assembly: AssemblyVersion("4.4.0.0")]
+[assembly: AssemblyTitle("Mono.WebServer.XSP")]
+[assembly: AssemblyDescription("Minimalistic web server for testing System.Web")]
+[assembly: AssemblyCopyright("(C) 2002-2011 Novell, Inc.")]
+[assembly: AssemblyCompany("Novell, Inc.")]
+[assembly: InternalsVisibleTo("Mono.WebServer.Test, PublicKey = 0024000004800000940000000602000" +
                                "00024000052534131000400000100010079159977d2d03a8e6bea7a2e74e8d1a" +
                                "fcc93e8851974952bb480a12c9134474d04062447c37e0e68c080536fcf3c3fb" +
                                "e2ff9c979ce998475e506e8ce82dd5b0f350dc10e93bf2eeecf874b24770c508" +

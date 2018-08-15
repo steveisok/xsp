@@ -22,7 +22,7 @@
     <ConsolePause>false</ConsolePause>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <Commandlineparameters>--root /home/steveman/dev/dotnet/apps/dasblog-clone/source/newtelligence.DasBlog.Web/ --port 8082 --appconfigfile=/home/steveman/dev/dotnet/apps/dasblog-clone/source/newtelligence.DasBlog.Web/Test.webapp</Commandlineparameters>
+    <Commandlineparameters>--root /Users/steveman/dev/dotnet/apps/dnn/Website/ --port 8082 --appconfigfile=/Users/steveman/dev/dotnet/apps/dnn/Website/Test.webapp</Commandlineparameters>
     <Externalconsole>true</Externalconsole>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
